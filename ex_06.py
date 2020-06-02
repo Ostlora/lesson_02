@@ -1,6 +1,6 @@
 goods = []
-features = {'name': '', 'price': '', 'quantity': '', 'unit': ''}
-analytics = {'name': [], 'price': [], 'quantity': [], 'unit': []}
+features = {'name': '', 'price': '', 'quantity': '', 'units': ''}
+analytics = {'name': [], 'price': [], 'quantity': [], 'units': []}
 num = 0
 feature_ = None
 control = None
